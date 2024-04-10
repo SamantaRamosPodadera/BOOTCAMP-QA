@@ -1,4 +1,4 @@
-# QA-BOOKING
+# BOOTCAMP-QA
 This is a cv website.
 [PROJECT URL](https://githubproject.com)
 
